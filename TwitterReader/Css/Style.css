@@ -1,0 +1,85 @@
+﻿body
+{
+	margin: 20px;
+	color: #51555C;
+	background-color: #c0deed;
+	background-image: url(../images/bg.png);
+	background-position: left top;
+	background-repeat: no-repeat;
+	font-family: 'Lucida Grande',sans-serif;
+}
+
+.twitter-container
+{
+	background: #fff;
+	-moz-border-radius: 12px;
+	-khtml-border-radius: 12px;
+	-webkit-border-radius: 12px;
+	border-radius: 12px;
+	border: 6px solid #f5f5f5;
+	padding: 10px;
+	width: 600px;
+	font-size: 14px;
+	font-family: 'Lucida Grande',sans-serif;
+	color: #333333;
+	margin-bottom: 20px;
+}
+
+.twitter-container tweetTxt
+{
+	float: left;
+	width: 498px;
+	overflow: hidden;
+}
+
+.twitter-container .date
+{
+	line-height: 18px;
+	font-size: 12px;
+	color: #999999;
+	float: right;
+}
+
+.profileImage
+{
+	width: 48px;
+	height: 48px;
+	border: 1px solid #fff;
+	border-radius: 12px;
+	float: left;
+	margin-right: 20px;
+}
+
+h3
+{
+	line-height: 21px;
+	font-size: 16px;
+	color: #fff;
+}
+
+.username
+{
+	color: #999;
+}
+
+.hashTag
+{
+	color: #0084b4;
+}
+
+a
+{
+	font-weight: bold;
+	text-decoration: none;
+	color: #0084b4;
+}
+
+	a :hover
+	{
+		text-decoration: underline;
+	}
+
+.location
+{
+	color: #999;
+}
